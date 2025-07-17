@@ -1,8 +1,6 @@
-import './App.css';
-
 function App() {
   return (
-    <div>Hello</div>
+    <div className="px-16 text-red-600 " >Hello kljsakldj</div>
   );
 }
 
